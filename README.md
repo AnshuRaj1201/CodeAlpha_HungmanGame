@@ -147,9 +147,9 @@ This project was built as part of learning Python fundamentals. Key takeaways:
 
 ## 👤 Author
 
-**Alex Johnson**
-- GitHub: [@alexjohnson](https://github.com/alexjohnson)
-- LinkedIn: [linkedin.com/in/alexjohnson](https://www.linkedin.com/in/alexjohnson)
+**Anshu Raj**
+- GitHub: [@AnshuRaj1201](https://github.com/AnshuRaj1201)
+- LinkedIn: [linkedin.com/in/anshuraj1201](www.linkedin.com/in/anshuraj1201)
 
 ---
 
